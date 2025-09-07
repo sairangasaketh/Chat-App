@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Chat App
 
 A modern, responsive real-time chat application built with React, TypeScript, Tailwind CSS, and Supabase. Features include user authentication, real-time messaging, online status indicators, and a clean mobile-first design.
@@ -245,3 +246,6 @@ This project is open source and available under the MIT License.
 ---
 
 Built with ❤️ using React, Supabase, and modern web technologies.
+=======
+# Chat-App
+>>>>>>> 3411ff41e7fd584ec0eb93b2462f1f8b2f57d480
