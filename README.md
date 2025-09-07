@@ -20,9 +20,8 @@ A responsive real-time chat application built with **React**, **TypeScript**, **
 
 ## **Quick Start**
 
-
-1. Clone the repo
 ```bash
+1. Clone the repo
 git clone <your-repo-url>
 cd chat-app
 npm install
